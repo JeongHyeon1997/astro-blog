@@ -2,6 +2,7 @@
   "name": "absent-azimuth",
   "type": "module",
   "version": "0.0.1",
+  "packageManager": "bun@latest",
   "engines": {
     "node": ">=22.12.0"
   },
