@@ -1,9 +1,9 @@
 export const SITE = {
-  website: "https://devosfera.vercel.app/",
-  author: "Andrés Ujpán",
-  profile: "https://github.com/0xdres",
-  desc: "Un blog para compartir mis pensamientos y proyectos mientras aprendo cosas nuevas.",
-  title: "Devosfera",
+  website: "https://jeonghyeon1997.github.io/",
+  author: "JeongHyeon",
+  profile: "https://github.com/JeongHyeon1997",
+  desc: "개발하면서 배운 것들을 기록하는 블로그",
+  title: "JeongHyeon's Blog",
   ogImage: "devosfera-og.webp", // ubicado en la carpeta public
   lightAndDarkMode: true,
   postPerIndex: 6,
