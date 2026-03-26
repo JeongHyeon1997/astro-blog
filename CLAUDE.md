@@ -44,6 +44,6 @@ description: "한 줄 요약"
 
 ### 태그 관리
 
-- 글을 저장한 후, `src/data/blog/TAGS.md` 파일에 사용한 태그를 추가한다
-- 새 글 작성 시 `TAGS.md`를 참고해서 기존 태그와 일관성 있게 사용한다
+- 글을 저장한 후, `.claude/skills/blog/TAGS.md` 파일에 사용한 태그를 추가한다
+- 새 글 작성 시 `.claude/skills/blog/TAGS.md`를 참고해서 기존 태그와 일관성 있게 사용한다
 - 같은 의미의 태그가 이미 있으면 새로 만들지 않고 기존 태그를 재사용한다
