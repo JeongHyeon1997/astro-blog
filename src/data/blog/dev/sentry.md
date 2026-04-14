@@ -28,7 +28,7 @@ description: "Sentry의 핵심 기능과 설정 방법, 그리고 실무에서 �
 
 `try { … } catch { … }` 했을 때 예외(오류)를 자동으로 포착하고, 오류를 분류하고 확인하여 관리할 수 있게 도와준다.
 
-![Sentry Feed 화면](../../assets/images/sentry/feed.png)
+![Sentry Feed 화면](../../../assets/images/sentry/feed.png)
 
 처음에는 프론트엔드에서만 사용했지만, 백엔드도 지원을 해준다.
 몇 년 전에 사용했을 때는 지원하는 프레임워크가 그리 많지 않았지만, 지금은 많은 프레임워크를 지원한다.
