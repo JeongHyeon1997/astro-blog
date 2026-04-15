@@ -7,6 +7,13 @@
 - `sentry`
 - `모니터링`
 - `에러 트래킹`
+- `OpenTelemetry`
+- `OTLP`
+
+## backend (Spring, Kotlin, Java)
+
+- `인증/인가`
+- `Spring Security`
 
 ## log (잡생각, 회고, 블로그)
 
