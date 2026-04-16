@@ -15,6 +15,12 @@
 - `인증/인가`
 - `Spring Security`
 
+## frontend (React, JavaScript, TypeScript)
+
+- `react-query`
+- `React`
+- `상태관리`
+
 ## log (잡생각, 회고, 블로그)
 
 - `blog`
