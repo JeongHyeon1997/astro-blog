@@ -14,6 +14,7 @@
 
 - `인증/인가`
 - `Spring Security`
+- `RBAC`
 
 ## frontend (React, JavaScript, TypeScript)
 
